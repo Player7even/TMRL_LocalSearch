@@ -14,3 +14,5 @@ Unsere Änderungen des Codes:
 
 Config Ordner in TMRL Data Überordner kopieren.
 Hiermit ist es möglich die Lernrate, Episoden und Rewardfunktionen anzupassen.
+
+Link zum hier benutzten TMRL Framework: https://github.com/trackmania-rl/tmrl/tree/master

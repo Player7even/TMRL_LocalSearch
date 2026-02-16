@@ -1,7 +1,7 @@
 # TMRL_LocalSearch
 Erweiterung des Open Frameworks: TMRL, mit einem Local Search Algorithmus welcher die beste Rundenzeit des RL Agenten Frameblock basiert verbessert.
 
-Unsere Aenderungen des Codes:
+Unsere Änderungen des Codes:
 
 TMRL - main.py (Zeile 66 - 95: Replayfunktion eingebunden, Parser Argument hinzugefügt (Zeile 112)
 TMRL - networking.py (Ab Zeile 939 alles hinzugefügt)
